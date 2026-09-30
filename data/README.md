@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `ID_REG_KG_2511` |
+| Sumber | `https://huggingface.co/datasets/Azzindani/ID_REG_KG_2511` |
+| Lisensi/ketentuan pakai | `CC BY 4.0` |
+| Ukuran | `7,92 GB (748.558 baris)` |
+| Periode data | `2025 - 2026` |
+| Unit analisis | `Rekaman Knowledge Graph / Pasangan Teks Bahasa Indonesia` |
 
 ## Tempat Mencari Dataset
 

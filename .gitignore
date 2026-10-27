@@ -12,10 +12,11 @@ env/
 .ipynb_checkpoints/
 
 # Data besar: simpan petunjuk unduh di data/README.md, bukan file data di Git
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+# (pola **/ juga menangkap data/ yang salah tempat, mis. notebooks/data/raw/)
+**/data/raw/*
+!**/data/raw/.gitkeep
+**/data/processed/*
+!**/data/processed/.gitkeep
 
 # Output hasil analisis dan visualisasi
 output/figures/*
